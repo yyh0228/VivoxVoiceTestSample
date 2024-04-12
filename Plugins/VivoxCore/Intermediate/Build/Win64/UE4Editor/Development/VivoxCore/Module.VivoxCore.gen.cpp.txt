@@ -1,0 +1,28 @@
+C:\Users\yyh0228\Documents\Unreal Projects\voiceTest\Plugins\VivoxCore\Intermediate\Build\Win64\UE4Editor\Development\VivoxCore\Definitions.VivoxCore.h
+C:/Users/yyh0228/Documents/Unreal Projects/voiceTest/Plugins/VivoxCore/Intermediate/Build/Win64/UE4Editor/Inc/VivoxCore/AudioDeviceImpl.gen.cpp
+D:\EpicGames\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\EpicGames\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\yyh0228\Documents\Unreal Projects\voiceTest\Plugins\VivoxCore\Source\VivoxCore/Private/AudioDeviceImpl.h
+C:\Users\yyh0228\Documents\Unreal Projects\voiceTest\Plugins\VivoxCore\Source\VivoxCore\Public\IAudioDevices.h
+C:\Users\yyh0228\Documents\Unreal Projects\voiceTest\Plugins\VivoxCore\Source\VivoxCore\Public\IAudioDevice.h
+C:\Users\yyh0228\Documents\Unreal Projects\voiceTest\Plugins\VivoxCore\Source\VivoxCore\Public\VivoxCoreCommon.h
+C:\Users\yyh0228\Documents\Unreal Projects\voiceTest\Plugins\VivoxCore\Source\VivoxCore\Public\VivoxConfig.h
+C:\Users\yyh0228\Documents\Unreal Projects\voiceTest\Plugins\VivoxCore\Source\ThirdParty\VivoxCoreLibrary\Windows\include\Vxc.h
+C:\Users\yyh0228\Documents\Unreal Projects\voiceTest\Plugins\VivoxCore\Source\ThirdParty\VivoxCoreLibrary\Windows\include\VxcExports.h
+C:\Users\yyh0228\Documents\Unreal Projects\voiceTest\Plugins\VivoxCore\Source\ThirdParty\VivoxCoreLibrary\Windows\include\VxcTypes.h
+C:\Users\yyh0228\Documents\Unreal Projects\voiceTest\Plugins\VivoxCore\Source\VivoxCore\Public\AccountId.h
+C:\Users\yyh0228\Documents\Unreal Projects\voiceTest\Plugins\VivoxCore\Source\VivoxCore\Public\ChannelId.h
+C:\Users\yyh0228\Documents\Unreal Projects\voiceTest\Plugins\VivoxCore\Source\VivoxCore\Public\Channel3DProperties.h
+C:\Users\yyh0228\Documents\Unreal Projects\voiceTest\Plugins\VivoxCore\Source\VivoxCore\Public\Presence.h
+C:\Users\yyh0228\Documents\Unreal Projects\voiceTest\Plugins\VivoxCore\Source\VivoxCore\Public\ConnectionState.h
+C:/Users/yyh0228/Documents/Unreal Projects/voiceTest/Plugins/VivoxCore/Intermediate/Build/Win64/UE4Editor/Inc/VivoxCore/Channel3DProperties.gen.cpp
+C:/Users/yyh0228/Documents/Unreal Projects/voiceTest/Plugins/VivoxCore/Intermediate/Build/Win64/UE4Editor/Inc/VivoxCore/ChannelId.gen.cpp
+C:/Users/yyh0228/Documents/Unreal Projects/voiceTest/Plugins/VivoxCore/Intermediate/Build/Win64/UE4Editor/Inc/VivoxCore/ConnectionState.gen.cpp
+C:/Users/yyh0228/Documents/Unreal Projects/voiceTest/Plugins/VivoxCore/Intermediate/Build/Win64/UE4Editor/Inc/VivoxCore/ILoginSession.gen.cpp
+C:\Users\yyh0228\Documents\Unreal Projects\voiceTest\Plugins\VivoxCore\Source\VivoxCore/Public/ILoginSession.h
+C:\Users\yyh0228\Documents\Unreal Projects\voiceTest\Plugins\VivoxCore\Source\VivoxCore\Public\ITextToSpeech.h
+C:\Users\yyh0228\Documents\Unreal Projects\voiceTest\Plugins\VivoxCore\Source\VivoxCore\Public\ITTSMessage.h
+C:\Users\yyh0228\Documents\Unreal Projects\voiceTest\Plugins\VivoxCore\Source\VivoxCore\Public\ITTSVoice.h
+C:/Users/yyh0228/Documents/Unreal Projects/voiceTest/Plugins/VivoxCore/Intermediate/Build/Win64/UE4Editor/Inc/VivoxCore/ITTSMessage.gen.cpp
+C:/Users/yyh0228/Documents/Unreal Projects/voiceTest/Plugins/VivoxCore/Intermediate/Build/Win64/UE4Editor/Inc/VivoxCore/Presence.gen.cpp
+C:/Users/yyh0228/Documents/Unreal Projects/voiceTest/Plugins/VivoxCore/Intermediate/Build/Win64/UE4Editor/Inc/VivoxCore/VivoxCore.init.gen.cpp

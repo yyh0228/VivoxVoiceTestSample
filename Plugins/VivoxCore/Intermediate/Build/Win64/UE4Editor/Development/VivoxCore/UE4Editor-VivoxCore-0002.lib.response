@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VivoxCore-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\yyh0228\Documents\Unreal Projects\voiceTest\Intermediate\Build\Win64\voiceTestEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\yyh0228\Documents\Unreal Projects\voiceTest\Plugins\VivoxCore\Intermediate\Build\Win64\UE4Editor\Development\VivoxCore\Module.VivoxCore.cpp.obj"
+"C:\Users\yyh0228\Documents\Unreal Projects\voiceTest\Plugins\VivoxCore\Intermediate\Build\Win64\UE4Editor\Development\VivoxCore\Module.VivoxCore.gen.cpp.obj"
+"C:\Users\yyh0228\Documents\Unreal Projects\voiceTest\Plugins\VivoxCore\Intermediate\Build\Win64\UE4Editor\Development\VivoxCore\Default.rc2.res"
+/OUT:"C:\Users\yyh0228\Documents\Unreal Projects\voiceTest\Plugins\VivoxCore\Intermediate\Build\Win64\UE4Editor\Development\VivoxCore\UE4Editor-VivoxCore-0002.lib"
